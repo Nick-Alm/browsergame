@@ -1,0 +1,24 @@
+{
+  "name": "dec17",
+  "version": "1.0.0",
+  "description": "using the canvas in HTML 5 along with node.js for the logic",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick-Alm/browsergame.git"
+  },
+  "author": "Nick Alm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nick-Alm/browsergame/issues"
+  },
+  "homepage": "https://github.com/Nick-Alm/browsergame#readme"
+}
